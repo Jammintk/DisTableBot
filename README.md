@@ -1,5 +1,5 @@
 # DisTableBot
-A Discord bot written in Ruby using Discordrb to work on the Unofficial Giant Bomb Discord Tabletop Zone
+A Discord bot written in Python using Discordrb to work on the Unofficial Giant Bomb Discord Tabletop Zone
 
 # Feature Goals
 
